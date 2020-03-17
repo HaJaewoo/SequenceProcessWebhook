@@ -1,7 +1,7 @@
 # SequenceProcessWebhook
 
 # 실행 환경 / nodejs 
-- 아래 링크에서 [node (https://nodejs.org/ko/)]를 설치하세요 
+- 아래 링크에서 [node](https://nodejs.org/ko/)를 설치하세요 
 
 # 운영 환경에 맞게 Orchestrator 및 접속정보 수정 
 ```javascript
